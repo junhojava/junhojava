@@ -1,11 +1,1 @@
-<table>
-<tr>
-    <td>라준호</td>
-</tr>
-<tr>
-    <td>junho9341@gmail.com</td>
-</tr>
-<tr>
-    <td>010-4642-8921</td>
-</tr>
-</table>
+*. 이름: 라준호
