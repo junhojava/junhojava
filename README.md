@@ -1,11 +1,9 @@
 ## 개인정보
-___
 - 라준호
 - ✉ junho9341@gmail.com
 - ❤ Java, Javascript, HTML, SQL, Develop&Design
 
 ## 이력
-___
 - 🕒 2018.01 ~ 2020.06(2년)
     - Qfactory System
         - MES분야의 소프트웨어 입니다.
