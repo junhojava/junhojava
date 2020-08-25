@@ -11,10 +11,10 @@
         - 나의 역할과 담당
             - 사용자에게 다양한 환경에서 사용할 수 있도록 구축했습니다.
                 1. PDA
-                2. Touch PC
-                3. PC
-                4. Smart Phone
-                5. Tablet
+                1. Touch PC
+                1. PC
+                1. Smart Phone
+                1. Tablet
             - 다음과 같은 서비스를 개발해 봤습니다.
                 1. 위지윅을 이용한 문서관리(HACCP, CGMP)
                 2. 생산성 분석자료 출력
