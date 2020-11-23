@@ -23,9 +23,9 @@
 1. 사용기술
     Extjs, 전자정부 프레임 워크(Spring, Ibatis), PostgreSQL
 2. 담당 업무
-    Extjs를 사용해 PDA, Touch PC, 관리자 페이지 등 다양한 고객 환경 개발
-    재고 입출고 관리
-    타 시스템의 자료 연계 및 운영(ETL, SOAP)
+- Extjs를 사용해 PDA, Touch PC, 관리자 페이지 등 다양한 고객 환경 개발
+- 재고 입출고 관리
+- 타 시스템의 자료 연계 및 운영(ETL, SOAP)
     생산성 분석 자료 
     위지윅을 이용한 문서관리(HACCP, CGMP)
     생산성 분석자료 출력
