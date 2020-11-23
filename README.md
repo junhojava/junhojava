@@ -19,6 +19,9 @@
 > MES 솔루션 프로그램 풀스택 개발
 
 - 비자림, 18.01 - 20.06
+
+1. 사용기술
+    Extjs, 전자정부 프레임 워크(Spring, Ibatis), PostgreSQL
     - Full Stack
         - Extjs를 사용해 PDA, Touch PC, 관리자 페이지 등 다양한 고객 환경 개발
         - 재고 입출고 관리
