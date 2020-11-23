@@ -9,11 +9,14 @@
 📞 010-4642-8921
 
 
-## Experience
-- Qfactory2.0
-> 스마트 팩토리 MES 솔루션 프로그램
-
+## 경력
+- 비자림
     - 18.01 - 20.06
+    - Full Stack Developer
+
+## 프로젝트 경험
+- Qfactory 2.0
+> MES 솔루션 프로그램 풀스택 개발
     - 나의 역할과 담당
         - 사용자 환경 구축
             - PDA
