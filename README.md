@@ -26,7 +26,7 @@
     Extjs, 전자정부 프레임 워크(Spring, Ibatis), PostgreSQL
 3. 개발 업무
 
-    Extjs를 사용해 PDA, Touch PC, 관리자 페이지 등 다양한 고객 환경을 만들었습니다.
+    - Extjs를 사용해 PDA, Touch PC, 관리자 페이지 등 다양한 고객 환경을 만들었습니다.
 
         PDA를 활용한 재고 입출고
 
