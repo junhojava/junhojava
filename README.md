@@ -3,8 +3,8 @@
 
 ## Info
 - 라준호
-- ✉ junho9341@gmail.com
-- 010-4642-8921
+- ✉️ Email junho9341@gmail.com
+- 📞 Phone 010-4642-8921
 
 ## History
 - Qfactory System
