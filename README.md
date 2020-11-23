@@ -15,7 +15,7 @@
     - Full Stack Developer
 
 ## 프로젝트 경험
-- Qfactory 2.0
+### Qfactory 2.0
 > MES 솔루션 프로그램 풀스택 개발
 
     - 18.01 - 20.06
