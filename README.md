@@ -8,8 +8,8 @@
 📞 010-4642-8921
 
 
-## History
-- Qfactory System
+## Experience
+- Qfactory2.0
     - 🕒 2018.01 ~ 2020.06(2년)
     - MES분야의 소프트웨어
     - 주요 고객
